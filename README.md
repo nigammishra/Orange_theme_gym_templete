@@ -1,2 +1,2 @@
 Website Image
-<img src="./gym image.png" alt="" />
+<img src="./assets/gymimage.png" alt="" />
